@@ -1,0 +1,11 @@
+# Copyrighted source material used only for analysis. Do not publish.
+sample text/
+*.pdf
+
+# Local Claude Code settings (machine-specific)
+.claude/settings.local.json
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
