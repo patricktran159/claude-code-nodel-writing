@@ -2,6 +2,8 @@
 
 ## 1. Where were you when lockdown started?
 
+![A man in an apron stands in a lit doorway holding a typed note while a masked woman waits on the concrete landing, four taped boxes behind him](images/c01.png)
+
 Elly has a pencil behind her ear, which she thinks makes her look like a journalist. The worksheet lies flat on the kitchen table under the heel of her hand. It is headed *Our Pandemic Stories*, with a cartoon virus in a party hat, which is the kind of decision committees make.
 
 It is my weekend, so it is pancakes. At Dad's it's waffles. Elly will tell you this is a ruling, not a preference.

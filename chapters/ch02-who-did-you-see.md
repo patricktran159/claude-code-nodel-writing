@@ -1,5 +1,7 @@
 ## 2. Who did you see?
 
+![Two masked people stand two metres apart on either side of a street planter of striped tulips at golden hour, a magpie on the lamp post above](images/c02.png)
+
 "Question two," Elly reads. "Who did you see?"
 
 "One person. That was the rule."

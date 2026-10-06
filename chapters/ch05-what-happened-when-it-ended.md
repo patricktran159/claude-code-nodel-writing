@@ -1,5 +1,7 @@
 ## 5. What happened when it ended?
 
+![A couple sit side by side on a night balcony above the lit windows of other flats and a dark lake, her head on his shoulder, a planner on her knee and a jar at his feet](images/c05.png)
+
 "Question five," Elly reads. "What happened when it ended?"
 
 "They opened the restaurants."

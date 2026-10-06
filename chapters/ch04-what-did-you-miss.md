@@ -1,5 +1,7 @@
 ## 4. What did you miss most?
 
+![A man and a woman dance slowly in socks in a tiny lamplit studio flat, labelled containers and a jar of sourdough starter on the bench behind them](images/c04.png)
+
 "Question four," Elly reads. "What did you miss most?"
 
 "Honestly? Hairdressers."

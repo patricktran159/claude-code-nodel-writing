@@ -1,5 +1,7 @@
 ## 3. Were you scared?
 
+![A masked woman stands at a strip of yellow tape on a concrete landing, a tray of labelled food containers on the mat before a closed door with light beneath it](images/c03.png)
+
 "Question three," Elly reads, and stops. She has underlined it twice. "Were you scared?"
 
 She takes the pencil out of her mouth.
